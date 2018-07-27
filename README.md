@@ -1,2 +1,2 @@
-# shad_specialization
+# shad specialization
 Repository for coursera mipt-yandex homework 
